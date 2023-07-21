@@ -67,7 +67,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 - We are grateful to the open-source community for providing valuable resources and libraries that made this project possible.
 - Special thanks to RAIT for their guidance and mentorship.
 
-## Contact
 
-For any questions or inquiries, please contact us at navinpatilwork@gmail.com
 
