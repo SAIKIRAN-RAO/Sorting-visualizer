@@ -16,7 +16,7 @@ The Sorting Visualizer Web Application is an interactive tool that allows users 
 
 ## Live Demo
 
-Check out the live demo of the Sorting Visualizer Web Application [here](https://example.com/sorting-visualizer).
+Check out the live demo of the Sorting Visualizer Web Application [here](https://saikiran-rao.github.io/Sorting-visualizer/).
 
 ## Installation
 
