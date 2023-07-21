@@ -58,18 +58,16 @@ The following sorting algorithms have been integrated into the application:
 
 Contributions to the Sorting Visualizer Web Application are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
 
-## License
+<!-- ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license. -->
 
 ## Acknowledgments
 
 - We are grateful to the open-source community for providing valuable resources and libraries that made this project possible.
-- Special thanks to [Insert Name Here] for their guidance and mentorship.
+- Special thanks to RAIT for their guidance and mentorship.
 
 ## Contact
 
-For any questions or inquiries, please contact us at sortingvis@example.com.
+For any questions or inquiries, please contact us at navinpatilwork@gmail.com
 
----
-_Replace [link-to-demo-gif.gif], [example.com/sorting-visualizer], [Insert Name Here], and [sortingvis@example.com] with appropriate links and information._
