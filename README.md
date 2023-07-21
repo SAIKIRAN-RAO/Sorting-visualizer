@@ -1,6 +1,6 @@
 # Sorting Visualizer Web Application
 
-![Sorting Visualizer Demo](link-to-demo-gif.gif)
+![Sorting Visualizer Demo](sorting.gif)
 
 ## Description
 
