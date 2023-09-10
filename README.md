@@ -1,5 +1,4 @@
-# Sorting Visualizer Web Application
-
+# Sorting Visualizer 
 ![Sorting Visualizer Demo](sorting.gif)
 
 ## Description
@@ -62,9 +61,7 @@ Contributions to the Sorting Visualizer Web Application are welcome! If you find
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license. -->
 
-## Acknowledgments
 
-- We are grateful to the open-source community for providing valuable resources and libraries that made this project possible.
 
 
 
